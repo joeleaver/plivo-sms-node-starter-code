@@ -3,7 +3,7 @@ An example starter project that includes basic optin/optout management, subscrib
 
 # To use:
 
-Clone the repository, run `npm init`
+Clone the repository, run `npm install`
 
 Change the line `const statusCallbackURL = "https://yourdomain/messageStatus"` to your own domain name.
 
